@@ -47,6 +47,3 @@
 
 Репозиторий не предназначен для запуска через `pod install` или публикации в App Store. Он показывает инженерные решения и структуру, но runtime-зависимости, Xcode project и приватные материалы удалены намеренно. Это source showcase, а не запускаемое приложение.
 
-## Короткое описание для GitHub
-
-iOS media player showcase: UIKit, AVFoundation, VLC fallback, FFmpeg PiP conversion, StoreKit subscriptions, localization, background audio, playlists and adaptive iPhone/iPad UI.
