@@ -1,0 +1,4 @@
+/* Photo Library access - shown when app requests access to Photos */
+"CFBundleDisplayName" = "Portfolio Media Player";
+"CFBundleName" = "Portfolio Media Player";
+"NSPhotoLibraryUsageDescription" = "Portfolio Media Player нужен доступ к вашей медиатеке «Фото», чтобы добавлять и воспроизводить ваши видео и музыку.";
