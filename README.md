@@ -30,7 +30,7 @@
 - `Player/Services` - playback, storage, metadata, covers, PiP conversion, subscriptions, Now Playing.
 - `Player/Models` - медиамодели, плейлисты, альбомы, папки, режимы воспроизведения.
 - `Player/Helpers` - локализация, адаптивные размеры, typography, цвета, reusable UI helpers.
-- `Player/*.lproj` - локализованные строки.
+- `Player/Localization/*.lproj` - локализованные строки.
 
 ## Файлы, которые лучше смотреть в первую очередь
 
@@ -46,4 +46,3 @@
 ## Ограничения showcase-версии
 
 Репозиторий не предназначен для запуска через `pod install` или публикации в App Store. Он показывает инженерные решения и структуру, но runtime-зависимости, Xcode project и приватные материалы удалены намеренно. Это source showcase, а не запускаемое приложение.
-
